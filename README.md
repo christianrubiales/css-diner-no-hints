@@ -1,25 +1,8 @@
-# Welcome to CSS Diner
+# Welcome to CSS Diner - No Hints
 
 It's a fun game to learn and practice CSS selectors.
 
-To play, visit [flukeout.github.io](http://flukeout.github.io/) or [cssdiner.com](http://cssdiner.com/)
-
-### Change Log
-
-**Aug 25,2016**
-* Added Twitter, Facebook and Email share actions
-  * Tracking clicks with GA Events
-* Made the level menu and editor area scroll independently
-  * Using custom jQuery scroll library
-
-**Aug 18,2016**
-* Started using ``cssdiner.com`` to redirect to ``flukeout.github.io``
-
-**Aug 12,2016**
-* Added checkmarks to completed levels in level menu and header
-
-**Aug 4,2016**
-* Began tracking progress and correct guesses with GA Events
+To play, visit [christianrubiales.com/css-diner-no-hints/](http://christianrubiales.com/css-diner-no-hints/)
 
 
 ### Filing issues and PRs
@@ -34,10 +17,6 @@ Here's the repo structure, it's a bit confusing...
   * The lastest version of the code is on the ``develop`` branch
 * The live version is published from the [flukeout.github.io repo](https://github.com/flukeout/flukeout.github.io/issues)
   * Live version lives on the ``master`` branch
-
-### Deploying
-
-This is more of a note to myself in case I forget, to deploy the latest version, I'll have to push to the ``master`` branch on the ``flukeout.github.io`` repo from the latest ``develop`` branch.
 
 # Roadmap and Status
 
